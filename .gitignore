@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/steam.csv
+data/games_clean.csv
+models/
+reports/
+*.egg-info/
+.venv/
+venv/
